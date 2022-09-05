@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jqincb
 - 👀 I’m interested in programming of all types.
 - 🌱 I’m currently learning HTML & CSS.
-- 💞️ I’m looking to collaborate on a big company.
+- I’m looking to collaborate on a big company.
 - If you dont have any idea of my code also tell me to my twitter @jqincc0
